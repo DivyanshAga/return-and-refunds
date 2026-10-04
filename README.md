@@ -150,6 +150,18 @@ return-and-refunds/
 - **Databricks Workflows** orchestrate the pipeline from ingestion through validation.
 - **Power BI** consumes Gold/business views rather than raw or intermediate data.
 
+## Key Business Insights
+
+- The overall return rate is approximately 9.62%.
+- 9,593 returns were recorded from 99,750 orders.
+- Home is the highest-returned product category.
+- Damaged products are the most common return reason.
+- The highest seller return rate is approximately 11.87%.
+- Total refund amount is approximately $146.98M.
+- Average refund processing time is approximately 3.34 days.
+- Approximately 52.94% of refunds breached the defined refund SLA.
+- Return activity was highest during March 2026.
+
 ## Project Results
 
 The completed pipeline processes:
